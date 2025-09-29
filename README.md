@@ -21,19 +21,8 @@ It is part of my **Prodigy Internship Data Science - Task 1**.
 ---
 
 ## Dataset (age_dataset.csv)
-| Name   | Age | Gender |
-|--------|-----|--------|
-| Amit   | 22  | Male   |
-| Raj    | 25  | Male   |
-| Priya  | 20  | Female |
-| Simran | 23  | Female |
-| Arjun  | 30  | Male   |
-| Neha   | 28  | Female |
-| Ravi   | 27  | Male   |
-| Pooja  | 24  | Female |
-| Karan  | 26  | Male   |
-| Anita  | 29  | Female |
-
+Dataset in Tabular form
+![Dataset](https://1drv.ms/x/c/3caa0aa167fc94a7/EUzhMXB39oNPqRkXzZqM3kQBTimwknmhS6PR3Ef2R9KLTA?e=9VmtC2)
 ---
 
 ## 📈 Visualizations
