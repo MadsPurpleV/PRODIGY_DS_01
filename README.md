@@ -40,7 +40,7 @@ Dataset in Tabular form
 ## Code
 Jupyter Notebook
 
-[Prodigy Task1](http://localhost:8888/lab/tree/Prodigy%20Task1.ipynb)
+[Prodigy Task1](https://1drv.ms/w/c/3caa0aa167fc94a7/EXuDGtNTA7FHpNaPZq_PsFYBCS7dWji2MzNHVpH3YW8WTA?e=fGGR2j)
 
 ---
 
