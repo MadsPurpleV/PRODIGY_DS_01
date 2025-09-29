@@ -23,7 +23,7 @@ It is part of my **Prodigy Internship Data Science - Task 1**.
 ## Dataset (age_dataset.csv)
 Dataset in Tabular form
 
-![Dataset](https://1drv.ms/x/c/3caa0aa167fc94a7/EUzhMXB39oNPqRkXzZqM3kQBTimwknmhS6PR3Ef2R9KLTA?e=9VmtC2).
+[Dataset](https://1drv.ms/x/c/3caa0aa167fc94a7/EUzhMXB39oNPqRkXzZqM3kQBTimwknmhS6PR3Ef2R9KLTA?e=9VmtC2).
 ---
 
 ## 📈 Visualizations
