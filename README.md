@@ -47,7 +47,7 @@ Jupyter Notebook
 ## Visualizations
 
 ### 🔹 Bar Chart - Gender Distribution
-![Bar Chart](images/bar_chart.png)
+![Bar Chart](https://1drv.ms/i/c/3caa0aa167fc94a7/EeWJrx-NBlZEopRCsJQ0HSQBKAU0H_ZMqlR6hG5gWlX69Q?e=yJHXE9))
 
 ### 🔹 Histogram - Age Distribution
-![Histogram](images/histogram.png)
+![Histogram](https://1drv.ms/i/c/3caa0aa167fc94a7/EfQTuOKlQIhPkWv1rUfjXlYBwOLoFMx4XZpNPqfgQXHMBw?e=AIHtZD)
