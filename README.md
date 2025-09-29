@@ -59,3 +59,5 @@ Jupyter Notebook
 2. Gender distribution is perfectly balanced → 5 Males and 5 Females.
 3. The age distribution is concentrated in the 23–29 age group, showing most people are in their mid-20s.
 4. The dataset is clean and simple, with no missing values or outliers.
+
+---
