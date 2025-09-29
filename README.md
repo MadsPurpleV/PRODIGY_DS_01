@@ -7,7 +7,6 @@ Distribution of continuous and categorical variable using bar chart and histogra
 This project visualizes a small dataset of people’s ages and genders using:
 (i) **Bar Chart** → Gender distribution
 (ii) **Histogram** → Age distribution  
-
 It is part of my **Prodigy Internship Data Science - Task 1**.
 
 ---
@@ -20,10 +19,21 @@ It is part of my **Prodigy Internship Data Science - Task 1**.
 
 ---
 
-## Dataset (age_dataset.csv)
+## Dataset
 Dataset in Tabular form
 
-[Dataset](https://1drv.ms/x/c/3caa0aa167fc94a7/EUzhMXB39oNPqRkXzZqM3kQBTimwknmhS6PR3Ef2R9KLTA?e=9VmtC2).
+[age_dataset.csv](https://1drv.ms/x/c/3caa0aa167fc94a7/EUzhMXB39oNPqRkXzZqM3kQBTimwknmhS6PR3Ef2R9KLTA?e=9VmtC2)
+
+---
+
+## Steps in Project
+1. Create Dataset
+2. Load the Data
+3. Exploration of Data
+4. Visualization of Bar Chart
+5. Visualization of Histogram
+6. Insights
+
 ---
 
 ## 📈 Visualizations
@@ -33,11 +43,3 @@ Dataset in Tabular form
 
 ### 🔹 Histogram - Age Distribution
 ![Histogram](images/histogram.png)
-
----
-
-## ✅ Steps to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/YourUsername/Task1-BarChart-Histogram.git
-   cd Task1-BarChart-Histogram
