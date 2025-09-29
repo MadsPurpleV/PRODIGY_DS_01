@@ -1,17 +1,18 @@
 # PRODIGY_DS_01
-Distribution of continuous and categorical variable using bar chart and histogram of the age and genders dataset using Python (Pandas, Matplotlib, Seaborn). Internship Project Task-1.
 
 # Task-1: Bar Chart & Histogram on Age Dataset
 
 ## Project Description
+Distribution of continuous and categorical variable using bar chart and histogram of the age and genders dataset using Python (Pandas, Matplotlib, Seaborn). Internship Project Task-1.
 This project visualizes a small dataset of people’s ages and genders using:
-(i) **Bar Chart** → Gender distribution
-(ii) **Histogram** → Age distribution  
+1. **Bar Chart** → Gender distribution
+2. **Histogram** → Age distribution
+
 It is part of my **Prodigy Internship Data Science - Task 1**.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - Matplotlib
@@ -36,7 +37,14 @@ Dataset in Tabular form
 
 ---
 
-## 📈 Visualizations
+## Code
+Jupyter Notebook
+
+[Prodigy Task1](http://localhost:8888/lab/tree/Prodigy%20Task1.ipynb)
+
+---
+
+## Visualizations
 
 ### 🔹 Bar Chart - Gender Distribution
 ![Bar Chart](images/bar_chart.png)
