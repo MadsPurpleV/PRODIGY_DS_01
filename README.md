@@ -51,3 +51,11 @@ Jupyter Notebook
 
 ### 🔹 Histogram - Age Distribution
 ![Histogram](images/https://1drv.ms/i/c/3caa0aa167fc94a7/EfQTuOKlQIhPkWv1rUfjXlYBwOLoFMx4XZpNPqfgQXHMBw?e=AIHtZD)
+
+---
+
+## Insights
+1. The dataset contains 10 individuals with ages ranging from 20 to 30 years.
+2. Gender distribution is perfectly balanced → 5 Males and 5 Females.
+3. The age distribution is concentrated in the 23–29 age group, showing most people are in their mid-20s.
+4. The dataset is clean and simple, with no missing values or outliers.
